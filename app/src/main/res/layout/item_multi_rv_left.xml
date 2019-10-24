@@ -3,11 +3,11 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.rv_multi.MultiRecycleLeftItemViewModel" />
+        <import type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleLeftItemViewModel" />
 
         <variable
             name="viewModel"
-            type="MultiRecycleLeftItemViewModel" />
+            type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleLeftItemViewModel" />
 
     </data>
 

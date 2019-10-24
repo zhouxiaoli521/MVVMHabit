@@ -3,11 +3,11 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.rv_multi.MultiRecycleHeadViewModel" />
+        <import type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleHeadViewModel" />
 
         <variable
             name="viewModel"
-            type="MultiRecycleHeadViewModel" />
+            type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleHeadViewModel" />
 
     </data>
 

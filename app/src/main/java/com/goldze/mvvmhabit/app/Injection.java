@@ -1,11 +1,11 @@
 package com.goldze.mvvmhabit.app;
 
 import com.goldze.mvvmhabit.data.DemoRepository;
-import com.goldze.mvvmhabit.data.source.HttpDataSource;
-import com.goldze.mvvmhabit.data.source.LocalDataSource;
-import com.goldze.mvvmhabit.data.source.http.HttpDataSourceImpl;
-import com.goldze.mvvmhabit.data.source.http.service.DemoApiService;
-import com.goldze.mvvmhabit.data.source.local.LocalDataSourceImpl;
+import com.goldze.mvvmhabit.data.http.HttpDataSource;
+import com.goldze.mvvmhabit.data.local.LocalDataSource;
+import com.goldze.mvvmhabit.data.http.HttpDataSourceImpl;
+import com.goldze.mvvmhabit.data.http.DemoApiService;
+import com.goldze.mvvmhabit.data.local.LocalDataSourceImpl;
 import com.goldze.mvvmhabit.utils.RetrofitClient;
 
 

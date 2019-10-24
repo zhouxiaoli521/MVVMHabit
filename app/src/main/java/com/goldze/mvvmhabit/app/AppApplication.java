@@ -2,7 +2,7 @@ package com.goldze.mvvmhabit.app;
 
 import com.goldze.mvvmhabit.BuildConfig;
 import com.goldze.mvvmhabit.R;
-import com.goldze.mvvmhabit.ui.login.LoginActivity;
+import com.goldze.mvvmhabit.ui.demo.login.LoginActivity;
 import com.squareup.leakcanary.LeakCanary;
 
 import me.goldze.mvvmhabit.base.BaseApplication;

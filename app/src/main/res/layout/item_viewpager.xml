@@ -3,11 +3,11 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.viewpager.vm.ViewPagerItemViewModel" />
+        <import type="com.goldze.mvvmhabit.ui.demo.viewpager.vm.ViewPagerItemViewModel" />
 
         <variable
             name="viewModel"
-            type="ViewPagerItemViewModel" />
+            type="com.goldze.mvvmhabit.ui.demo.viewpager.vm.ViewPagerItemViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

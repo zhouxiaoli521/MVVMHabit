@@ -3,17 +3,17 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.viewpager.vm.ViewPagerViewModel" />
+        <import type="com.goldze.mvvmhabit.ui.demo.viewpager.vm.ViewPagerViewModel" />
 
-        <import type="com.goldze.mvvmhabit.ui.viewpager.adapter.ViewPagerBindingAdapter" />
+        <import type="com.goldze.mvvmhabit.ui.demo.viewpager.adapter.ViewPagerBindingAdapter" />
 
         <variable
             name="viewModel"
-            type="ViewPagerViewModel" />
+            type="com.goldze.mvvmhabit.ui.demo.viewpager.vm.ViewPagerViewModel" />
 
         <variable
             name="adapter"
-            type="ViewPagerBindingAdapter" />
+            type="com.goldze.mvvmhabit.ui.demo.viewpager.adapter.ViewPagerBindingAdapter" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

@@ -8,8 +8,8 @@ import android.support.annotation.NonNull;
 import android.support.annotation.VisibleForTesting;
 
 import com.goldze.mvvmhabit.data.DemoRepository;
-import com.goldze.mvvmhabit.ui.login.LoginViewModel;
-import com.goldze.mvvmhabit.ui.network.NetWorkViewModel;
+import com.goldze.mvvmhabit.ui.demo.login.LoginViewModel;
+import com.goldze.mvvmhabit.ui.demo.network.NetWorkViewModel;
 
 /**
  * Created by goldze on 2019/3/26.
