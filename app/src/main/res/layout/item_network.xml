@@ -3,11 +3,11 @@
 
     <data>
 
-        <import type="com.goldze.jzshop.ui.demo.network.NetWorkItemViewModel" />
+        <import type="com.jzd.jzshop.ui.demo.network.NetWorkItemViewModel" />
 
         <variable
             name="viewModel"
-            type="com.goldze.jzshop.ui.demo.network.NetWorkItemViewModel" />
+            type="com.jzd.jzshop.ui.demo.network.NetWorkItemViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

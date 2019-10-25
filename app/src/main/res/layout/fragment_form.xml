@@ -3,11 +3,11 @@
 
     <data>
 
-        <import type="com.goldze.jzshop.ui.demo.form.FormViewModel" />
+        <import type="com.jzd.jzshop.ui.demo.form.FormViewModel" />
 
         <variable
             name="viewModel"
-            type="com.goldze.jzshop.ui.demo.form.FormViewModel" />
+            type="com.jzd.jzshop.ui.demo.form.FormViewModel" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
