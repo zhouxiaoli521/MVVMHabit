@@ -1,4 +1,4 @@
-package com.goldze.jzshop;
+package com.jzd.jzshop;
 
 import org.junit.Test;
 
