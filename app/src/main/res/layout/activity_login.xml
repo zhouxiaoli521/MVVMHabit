@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.goldze.mvvmhabit.ui.demo.login.LoginViewModel" />
+            type="com.goldze.jzshop.ui.demo.login.LoginViewModel" />
     </data>
 
     <RelativeLayout

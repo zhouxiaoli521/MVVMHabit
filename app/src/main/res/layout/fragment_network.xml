@@ -3,13 +3,13 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.demo.network.NetWorkViewModel" />
+        <import type="com.goldze.jzshop.ui.demo.network.NetWorkViewModel" />
 
         <import type="me.tatarka.bindingcollectionadapter2.BindingRecyclerViewAdapter" />
 
         <variable
             name="viewModel"
-            type="com.goldze.mvvmhabit.ui.demo.network.NetWorkViewModel" />
+            type="com.goldze.jzshop.ui.demo.network.NetWorkViewModel" />
 
         <variable
             name="adapter"

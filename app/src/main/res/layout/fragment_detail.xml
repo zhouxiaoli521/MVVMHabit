@@ -3,13 +3,13 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.demo.network.detail.DetailViewModel" />
+        <import type="com.goldze.jzshop.ui.demo.network.detail.DetailViewModel" />
 
         <variable
                 name="viewModel"
-                type="com.goldze.mvvmhabit.ui.demo.network.detail.DetailViewModel"
+                type="com.goldze.jzshop.ui.demo.network.detail.DetailViewModel"
                 />
-        <import type="com.goldze.mvvmhabit.R" />
+        <import type="com.goldze.jzshop.R" />
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

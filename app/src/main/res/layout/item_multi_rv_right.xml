@@ -3,11 +3,11 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleRightItemViewModel" />
+        <import type="com.goldze.jzshop.ui.demo.rv_multi.MultiRecycleRightItemViewModel" />
 
         <variable
             name="viewModel"
-            type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleRightItemViewModel" />
+            type="com.goldze.jzshop.ui.demo.rv_multi.MultiRecycleRightItemViewModel" />
 
     </data>
 

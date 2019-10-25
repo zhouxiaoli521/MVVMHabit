@@ -3,13 +3,13 @@
 
     <data>
 
-        <import type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleViewModel" />
+        <import type="com.goldze.jzshop.ui.demo.rv_multi.MultiRecycleViewModel" />
 
         <import type="me.tatarka.bindingcollectionadapter2.BindingRecyclerViewAdapter" />
 
         <variable
             name="viewModel"
-            type="com.goldze.mvvmhabit.ui.demo.rv_multi.MultiRecycleViewModel" />
+            type="com.goldze.jzshop.ui.demo.rv_multi.MultiRecycleViewModel" />
 
         <variable
             name="adapter"

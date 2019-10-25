@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="com.goldze.mvvmhabit">
+        package="com.goldze.jzshop">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.CAMERA"/>
@@ -11,23 +11,23 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
-            android:name=".app.AppApplication"
+            android:name="com.goldze.jzshop.app.AppApplication"
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
-        <activity android:name=".ui.demo.login.LoginActivity">
+        <activity android:name="com.goldze.jzshop.ui.demo.login.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.demo.main.DemoActivity"></activity>
-        <activity android:name=".ui.demo.tab_bar.activity.TabBarActivity"></activity>
-        <activity android:name=".ui.demo.viewpager.activity.ViewPagerActivity"></activity>
+        <activity android:name="com.goldze.jzshop.ui.demo.main.DemoActivity"></activity>
+        <activity android:name="com.goldze.jzshop.ui.demo.tab_bar.activity.TabBarActivity"></activity>
+        <activity android:name="com.goldze.jzshop.ui.demo.viewpager.activity.ViewPagerActivity"></activity>
     </application>
 
 </manifest>
